@@ -11,7 +11,9 @@ LINE = "By accepting these terms, you grant the company a perpetual, irrevocable
 # The punchline lands on the last words: "on cloudy days" — the clause reads
 # as real legal boilerplate (perpetual, irrevocable licence) until the very
 # end, when your shadow turns out to be lendable property. The line is 160
-# chars, 160 bytes (pure ASCII), well inside the 200-char gate.
+# chars, 160 bytes (pure ASCII), well inside the 200-char gate. The shadow
+# is the joke's image: something you never think of as property, quietly
+# licensed away like a stock photo.
 
 MAX_CHARS = 200
 
